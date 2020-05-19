@@ -1,0 +1,10 @@
+# jena-fuseki file
+backups
+configuration
+databases
+logs
+system
+system_files
+templates
+config.ttl
+shiro.ini
