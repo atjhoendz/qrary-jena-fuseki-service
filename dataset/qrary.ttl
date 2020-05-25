@@ -1,0 +1,70 @@
+@prefix data: <http://example.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+data:9789791227025 rdf:type data:book;
+    data:judul "Edensor";
+    data:bahasa "Indonesia";
+    data:jmlHal "288";
+    data:penerbit "Bentang Pustaka";
+    data:penulis "Andrea Hirata";
+    data:penerjemah "";
+    data:tanggalTerbit "10 Desember 2007";
+    data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489733485l/1464757._SY475_.jpg";
+    .
+
+data:9789799731234 rdf:type data:book;
+    data:judul "Bumi Manusia";
+    data:bahasa "Indonesia";
+    data:jmlHal "535";
+    data:penerbit "Lentera Dipantara";
+    data:penulis "Pramoedya Ananta Toer";
+    data:penerjemah "";
+    data:tanggalTerbit "2005";
+    data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565658920l/1398034._SY475_.jpg";
+    .
+
+
+data:9780062316110 rdf:type data:book;
+    data:judul "Sapiens: A Brief History of Humankind";
+    data:bahasa "Inggris";
+    data:jmlHal "443";
+    data:penerbit "Harper Collins";
+    data:penulis "Yuval Noah Harari";
+    data:penerjemah "";
+    data:tanggalTerbit "1 Januari 2015";
+    data:urlFoto "https://upload.wikimedia.org/wikipedia/en/d/d2/Sapiens_A_Brief_History_of_Humankind.jpg";
+    .
+    
+
+data:9789797591519 rdf:type data:book;
+    data:judul "5cm";
+    data:bahasa "Indonesia";
+    data:jmlHal "381";
+    data:penerbit "Grasindo";
+    data:penulis "Donny Dhirgantoro";
+    data:penerjemah "";
+    data:tanggalTerbit "2005";
+    data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472231689l/1499340.jpg";
+    .
+
+data:9781338109061 rdf:type data:book;
+    data:judul "Fantastic Beast and Where to Find Them: The Original Screenplay";
+    data:bahasa "Inggris";
+    data:jmlHal "200";
+    data:penerbit "Arthur A. Levine Books";
+    data:penulis "J.K. Rowling";
+    data:penerjemah "";
+    data:tanggalTerbit "";
+    data:urlFoto "https://images-na.ssl-images-amazon.com/images/I/61ccZDpi1EL._SX319_BO1,204,203,200_.jpg";
+    .
+
+data:9780747599876 rdf:type data:book;
+    data:judul "The Tales of Beedle the Bard";
+    data:bahasa "Inggris";
+    data:jmlHal "109";
+    data:penerbit "Bloomsbury";
+    data:penulis "J.K. Rowling";
+    data:penerjemah "";
+    data:tanggalTerbit "4 Desember 2008";
+    data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373467575i/3950967._UX75_.jpg";
+    .
