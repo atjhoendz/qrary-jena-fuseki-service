@@ -1,7 +1,8 @@
 @prefix data: <http://example.com/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 
-data:9789791227025 rdf:type data:book;
+data:1 rdf:type data:book;
+    data:isbn "9789791227025";
     data:judul "Edensor";
     data:bahasa "Indonesia";
     data:jmlHal "288";
@@ -12,7 +13,8 @@ data:9789791227025 rdf:type data:book;
     data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489733485l/1464757._SY475_.jpg";
     .
 
-data:9789799731234 rdf:type data:book;
+data:2 rdf:type data:book;
+    data:isbn "9789799731234";
     data:judul "Bumi Manusia";
     data:bahasa "Indonesia";
     data:jmlHal "535";
@@ -24,7 +26,8 @@ data:9789799731234 rdf:type data:book;
     .
 
 
-data:9780062316110 rdf:type data:book;
+data:3 rdf:type data:book;
+    data:isbn "9780062316110";
     data:judul "Sapiens: A Brief History of Humankind";
     data:bahasa "Inggris";
     data:jmlHal "443";
@@ -36,7 +39,8 @@ data:9780062316110 rdf:type data:book;
     .
     
 
-data:9789797591519 rdf:type data:book;
+data:4 rdf:type data:book;
+    data:isbn "9789797591519";
     data:judul "5cm";
     data:bahasa "Indonesia";
     data:jmlHal "381";
@@ -47,7 +51,8 @@ data:9789797591519 rdf:type data:book;
     data:urlFoto "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472231689l/1499340.jpg";
     .
 
-data:9781338109061 rdf:type data:book;
+data:5 rdf:type data:book;
+    data:isbn "9781338109061";
     data:judul "Fantastic Beast and Where to Find Them: The Original Screenplay";
     data:bahasa "Inggris";
     data:jmlHal "200";
@@ -58,7 +63,8 @@ data:9781338109061 rdf:type data:book;
     data:urlFoto "https://images-na.ssl-images-amazon.com/images/I/61ccZDpi1EL._SX319_BO1,204,203,200_.jpg";
     .
 
-data:9780747599876 rdf:type data:book;
+data:6 rdf:type data:book;
+    data:isbn "9780747599876";
     data:judul "The Tales of Beedle the Bard";
     data:bahasa "Inggris";
     data:jmlHal "109";
